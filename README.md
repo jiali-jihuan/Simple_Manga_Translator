@@ -9,7 +9,7 @@
   - Orb detection <br>
   - Foreground/background segmentation <br>
   - RGB mask <br>
-  - +more in zip file <br>
+  - +more in colab file <br>
 #### - Entire experiments are in https://colab.research.google.com/drive/1jPP3EDmJD8O716rvrwTcoCdMomQmdKB2
 #### - All necessary materials to run colab file are in this repo
 
