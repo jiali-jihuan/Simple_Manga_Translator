@@ -1,6 +1,7 @@
 # Simple Manga Translator
 
-##  Creation of a manga translator using methods in place of neural networks for evaluation
+<b> Creation of a manga translator using methods in place of neural networks for evaluation </b>
+- Purpose of experiment is to try to get good results in ROI detection (regions of interest) to prepare for CNN/RNN training.
 ### Methods consist of image segmentation and OCR: <br>
   - contour detection <br>
   - image pre-processing <br>
