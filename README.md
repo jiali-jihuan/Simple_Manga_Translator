@@ -1,0 +1,1 @@
+# Simple_Manga_Translator
