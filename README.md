@@ -10,4 +10,4 @@
   - Foreground/background segmentation <br>
   - RGB mask <br>
   - +more in zip file <br>
-#### -Entire experiments are in zip file
+#### -Entire experiments are in https://colab.research.google.com/drive/1jPP3EDmJD8O716rvrwTcoCdMomQmdKB2
